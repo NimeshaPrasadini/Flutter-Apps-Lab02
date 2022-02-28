@@ -30,7 +30,7 @@ class Profile extends StatelessWidget {
             height: 40,
           ),
           Text(
-            "Nimesha Athapaththu",
+            "My Name",
             style: GoogleFonts.iceberg(fontSize: 30),
           ),
           const Text(
